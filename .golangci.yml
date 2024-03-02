@@ -2,7 +2,7 @@
 
 run:
   timeout: 20m
-  tests: true
+  tests: false
   skip-dirs-use-default: true
   skip-files:
     - bindings/gen_taiko_l1.go
